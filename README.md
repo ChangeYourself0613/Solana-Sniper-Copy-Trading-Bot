@@ -62,16 +62,17 @@ The original implementation should be considered as educational material rather 
 
 ## How to use
 
-- backend
+```bash
+# backend
 cd backend
 npm i
 npm start
 
-- frontend
-cd frontend
+#cd frontend
 npm i
 npm run build
 npm start
+```
 
 # Real trading history
 Currently using several wallets at the same time.
