@@ -63,12 +63,13 @@ The original implementation should be considered as educational material rather 
 ## How to use
 
 ```bash
-# backend
+# Backend
 cd backend
 npm i
 npm start
 
-#cd frontend
+#Frontend
+cd frontend
 npm i
 npm run build
 npm start
