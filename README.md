@@ -1,6 +1,6 @@
 # [📞Telegram](https://t.me/oxie11)
 # [📞Discord](soldev098303)
-# Solana Snipr And Copy trading Bot
+# Solana Sniper And Copy trading Bot
 
 ## Sniper and copy trading bot Limitations
 
